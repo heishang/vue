@@ -808,7 +808,7 @@ babel-plugin-transform-regenerator@^6.22.0:
   dependencies:
     regenerator-transform "^0.10.0"
 
-babel-plugin-transform-remove-strict-mode@^0.0.2:
+babel-plugin-transform-remove-strict-mode@0.0.2:
   version "0.0.2"
   resolved "http://registry.npm.taobao.org/babel-plugin-transform-remove-strict-mode/download/babel-plugin-transform-remove-strict-mode-0.0.2.tgz#913685aab95439f3a0ed88e588fbd5e997890579"
   integrity sha1-kTaFqrlUOfOg7YjliPvV6ZeJBXk=
